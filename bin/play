@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 
 require_relative "../lib/play"
-require_relative "./bin/play"
+# require_relative "./bin/play"
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
