@@ -9,11 +9,4 @@ puts "Welcome to Tic Tac Toe!"
 display_board(board)
 
 # Make sure to execute #play below
-<<<<<<< HEAD
 play(board)
-=======
-def play
-  turn(board)
-
-end
->>>>>>> 996cc41ae8684fbeb82dbb83dc298ba3f16915c4
